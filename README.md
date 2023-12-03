@@ -88,3 +88,5 @@ Ensure you have the following prerequisites installed on your machine:
 
 ### Demo
 
+https://github.com/ShashankGupta10/Sonic-Sum/assets/117008526/de15e062-aa7e-491a-aacc-dd9883d8d224
+
