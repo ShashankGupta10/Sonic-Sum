@@ -1,0 +1,4 @@
+langchain
+stremlit
+cohere
+openai
