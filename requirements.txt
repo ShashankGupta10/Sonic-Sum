@@ -2,6 +2,6 @@ langchain
 streamlit
 cohere
 openai==0.28
-whisper
+openai-whisper
 yt_dlp
 pydub
