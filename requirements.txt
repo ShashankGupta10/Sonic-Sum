@@ -1,5 +1,5 @@
 langchain
-stremlit
+streamlit
 cohere
 openai==0.28
 whisper
